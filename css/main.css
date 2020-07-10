@@ -320,7 +320,7 @@
   /* Features */
   
   .features {
-    background: url('../img/unplugged-features.jpg');
+    background: url('../img//unplugged-features.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
@@ -436,10 +436,6 @@
   .faq h2 {
     margin-bottom: 40px;
     line-height: 1;
-  }
-  
-  .faq-content {
-    margin-bottom: 50px;
   }
   
   .faq-content {
@@ -588,8 +584,8 @@
   
     .hero-area {
       min-height: 600px;
-    }  
-  
+    }
+    
     .hero-area h1 {
       font-size: 3em;
       line-height: 1;
@@ -798,7 +794,7 @@
     }
     
     /* Reviews */
-  
+    
     .reviews h2 {
       padding-bottom: 50px; 
     }
@@ -810,6 +806,7 @@
     footer h4 {
       font-size: 1.875em;
     }
+  
     /* ==========================================================================
     About Page
     ========================================================================== */
